@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 🚀 About Me
+
+🎓 I am Al Mahanad, a **B.S. Computer Science** undergraduate at Penn State University
 <!--
 **Moha-Mahdhour/Moha-Mahdhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
