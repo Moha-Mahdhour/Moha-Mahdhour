@@ -2,7 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Al Mahanad, a **B.S. Computer Science** undergraduate at Penn State University
+🎓 I am Al Mahanad, a **B.S. Computer Science** undergraduate at Penn State University. I am interested in **Swift/SwiftUI, Mathemtics, and AI**.
+
+🔭 I enjoy learning about AI and its applications, and I am currently learning about **FastAI** Python Library to further expand my knowledge in AI.
+
+🌱 Outside the world of tech I like to go out and have fun with my friends and loved ones. I also enjoy playing vido games 🎮
 <!--
 **Moha-Mahdhour/Moha-Mahdhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
