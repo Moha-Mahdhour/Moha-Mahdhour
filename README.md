@@ -2,7 +2,7 @@
 
 **Computer Science @ Penn State** · graduating December 2026
 Focused on **controls, automation, and embedded systems**
-Originally from Muscat, Oman 🇴🇲 · based in State College, PA
+Based in State College, PA
 
 ---
 
