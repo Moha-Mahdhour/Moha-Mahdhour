@@ -16,6 +16,11 @@ Based in State College, PA
 - **PI controller** for load-cell-based auger dosing
 - **Operator HMI** for machine state, telemetry, and faults
 
+### 📂 Open source
+
+- [**plant-floor-review**](https://github.com/Moha-Mahdhour/plant-floor-review): turns hours of plant-floor CCTV into a bottleneck analysis. Motion-based footage reduction, video-model annotation with a strict event schema, a blocked-vs-starved station scorecard, and a Pareto of causes.
+- [**personalines-engine**](https://github.com/Moha-Mahdhour/personalines-engine): event-driven lead enrichment and LLM personalization pipeline. Supabase-triggered workers, a job state machine, async bulk enrichment, and concurrent generation with retry.
+
 ### 🧱 Things I've built
 
 | Project | Stack | Highlights |
