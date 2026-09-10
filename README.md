@@ -1,23 +1,49 @@
-### Hi there 👋
+# Hi, I'm Al Mahanad 👋
 
-## 🚀 About Me
+**Computer Science @ Penn State** · graduating December 2026
+Focused on **controls, automation, and embedded systems**
+Originally from Muscat, Oman 🇴🇲 · based in State College, PA
 
-🎓 I am Al Mahanad, a **B.S. Computer Science** undergraduate at Sultan Qaboos University @ Oman . I am interested in **Swift/SwiftUI, Mathematics, and AI**.
+---
 
-🔭 I enjoy learning about AI and its applications, and I am currently learning about **FastAI** Python Library to further expand my knowledge in AI.
+### 🔧 Currently building
 
-🌱 Outside the world of tech I like to go out and have fun with my friends and loved ones. I also enjoy playing vido games 🎮
-<!--
-**Moha-Mahdhour/Moha-Mahdhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Autonomous Pothole Repair Robot** · senior capstone · controls & automation lead
 
-Here are some ideas to get you started:
+- 3D vision on an **NVIDIA Jetson Orin Nano** + **Intel RealSense D405**: depth filtering → point cloud → RANSAC road-plane fit → pothole segmentation → depth, area, and volume
+- **XYZ gantry motion control** with camera-to-gantry calibration and toolpath generation
+- **State-machine sequencing** (grind → vacuum → fill → screed → compact → rescan) with interlocks, homing, and fault states
+- **PI controller** for load-cell-based auger dosing
+- **Operator HMI** for machine state, telemetry, and faults
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧱 Things I've built
+
+| Project | Stack | Highlights |
+|---|---|---|
+| Bare-metal x86-64 kernel | C, UEFI | 4-level paging, syscall dispatch, framebuffer console, kernel heap |
+| Concurrent message channels | C, pthreads | Blocking / non-blocking send-receive, multi-channel select; found and fixed a race condition |
+| Memory allocator | C | Segregated free lists, boundary-tag coalescing, heap consistency checker |
+| 5-stage pipelined CPU | Verilog, Vivado | Operand forwarding unit, control unit, signal-level testbenches |
+| POS + messaging platform for a 3-branch business | Python, SQL Server, Twilio, Supabase | WhatsApp pickup notifications, incremental POS syncs, offline-sales attribution |
+| Production automations for 25 clients | Python, Playwright, REST APIs, Make, Zapier, n8n | Event-driven monitoring services, ETL pipelines, root-cause debugging and logging |
+
+### 🛠 Tools
+
+![Python](https://img.shields.io/badge/Python-25324A?style=flat-square&logo=python&logoColor=D9B98E)
+![C](https://img.shields.io/badge/C-25324A?style=flat-square&logo=c&logoColor=D9B98E)
+![C++](https://img.shields.io/badge/C++-25324A?style=flat-square&logo=cplusplus&logoColor=D9B98E)
+![Verilog](https://img.shields.io/badge/Verilog-25324A?style=flat-square&logo=v&logoColor=D9B98E)
+![TypeScript](https://img.shields.io/badge/TypeScript-25324A?style=flat-square&logo=typescript&logoColor=D9B98E)
+![SQL](https://img.shields.io/badge/SQL-25324A?style=flat-square&logo=postgresql&logoColor=D9B98E)
+![Linux](https://img.shields.io/badge/Linux-25324A?style=flat-square&logo=linux&logoColor=D9B98E)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-25324A?style=flat-square&logo=nvidia&logoColor=D9B98E)
+![OpenCV](https://img.shields.io/badge/OpenCV-25324A?style=flat-square&logo=opencv&logoColor=D9B98E)
+![Docker](https://img.shields.io/badge/Docker-25324A?style=flat-square&logo=docker&logoColor=D9B98E)
+![FastAPI](https://img.shields.io/badge/FastAPI-25324A?style=flat-square&logo=fastapi&logoColor=D9B98E)
+![Git](https://img.shields.io/badge/Git-25324A?style=flat-square&logo=git&logoColor=D9B98E)
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/al-mahanad-al-mahdhour/) · asa6152@psu.edu
+
+Outside engineering: video games 🎮 and time with friends and family.
