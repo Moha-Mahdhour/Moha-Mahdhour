@@ -1,7 +1,7 @@
 # Hi, I'm Al Mahanad 👋
 
-**Computer Science @ Penn State** · graduating December 2026
-Focused on **controls, automation, and embedded systems**
+**Computer Science @ Penn State** · graduating December 2026<br>
+Focused on **controls, automation, and embedded systems**<br>
 Based in State College, PA
 
 ---
